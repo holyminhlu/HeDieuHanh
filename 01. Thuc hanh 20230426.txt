@@ -1,0 +1,38 @@
+Cau1. Dung wihex mo file image12.img và thuc hien cac yeu cau sau:
+a. Kich thuoc cluster (so sector tren 1 cluster)
+b. Xac dinh vi tri bang FAT va bang RDET
+c. Tap tin REISER~1.TPL co:
+	- Ten dai:
+	- Thuoc tinh trang thai
+	- Kich thuoc
+	- Ngay tao
+	- Gio truy cap
+	- Cluster bat dau chua noi dung tap tin
+	- Noi dung tap tin chiem cac cluster và sector nao
+================
+Cau 2. Thuc hien tuong tu doi voi tap tin image16.img
+a. Kich thuoc cluster (so sector tren 1 cluster)
+b. Xac dinh vi tri bang FAT va bang RDET
+c. Tap tin REISER~1.TPL co:
+	- Ten dai:
+	- Thuoc tinh trang thai
+	- Kich thuoc
+	- Ngay tao
+	- Gio truy cap
+	- Cluster bat dau chua noi dung tap tin
+	- Noi dung tap tin chiem cac cluster và sector nao
+d. thực hiện các yêu cầu như câu c đoi với tạp tin 123.TPL
+=============
+KTQT. Thuc hien tuong tu doi voi tap tin anh cua Volume (img1.img)
+a. Xac dinh cac thong so can thiet của Volume trên 
+b. Kich thuoc cluster (so sector tren 1 cluster)
+c. Xac dinh vi tri bang FAT va bang RDET
+d. Volume trên có bao nhiêu tạp tin/thu mực thuộc thư mục gốc
+e. Tap tin EXTINO~1.TPL co:
+	- Ten dai:
+	- Thuoc tinh trang thai
+	- Kich thuoc
+	- Ngay tao
+	- Gio truy cap
+	- Cluster bat dau chua noi dung tap tin
+	- Noi dung tap tin chiem cac cluster và sector nao
